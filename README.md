@@ -1,2 +1,2 @@
-# Resume
-Curriculum Vitae
+# resume
+
